@@ -1,1 +1,136 @@
-IyBDbGF1ZGUgU2tpbGxzIE1hcmtldHBsYWNlCgojIyBNYXJrZXRwbGFjZSBNZXRhZGF0YQoKKipOYW1lKio6IOWkp+aooeWei+mpseWKqOeahOS7o+eQhuiusOi0puihjOS4muS4k+WxnlNLSUxMCioqRGVzY3JpcHRpb24qKjog5Z+65LqO5aSn6K+t6KiA5qih5Z6L55qE5Luj55CG6K6w6LSm6KGM5Lia5Z6C55u0U2tpbGzvvIzmmbrog73osIPluqY15aSn5qih5Z2X77yM5pSv5oyB5Yid5aeL5YyW5a6a5Yi2CioqVmVyc2lvbioqOiAxLjEuMAoqKkF1dGhvcioqOiBjeWh6enoKKipMaWNlbnNlKio6IE1JVAoqKlJlcG9zaXRvcnkqKjogaHR0cHM6Ly9naXRodWIuY29tL2N5aHp6ei9Cb29ra2VlcGluZy1BZ2VuY3ktU2tpbGwKCi0tLQoKIyMgQXZhaWxhYmxlIFNraWxscwoKIyMjIOS7o+eQhuiusOi0puihjOS4muWeguebtFNraWxs5YyFCgojIyMjIEJvb2trZWVwaW5nLUFnZW5jeS1Ta2lsbAoKKipQYXRoKio6IGAvYAoqKkRlc2NyaXB0aW9uKio6IOWkp+aooeWei+mpseWKqOeahOS7o+eQhuiusOi0puihjOS4muS4k+WxnlNLSUxMIC0g5pm66IO96LCD5bqmNeWkp+aooeWdl++8jOaUr+aMgeWIneWni+WMluWumuWItuOAgueuoeeQhuWxguWIneWni+WMluWQjuS6pOS7mOWRmOW3peS9v+eUqOOAggoqKlZlcnNpb24qKjogMS4xLjAKKipJbnN0YWxsKio6IGBucHggc2tpbGxzIGFkZCBjeWh6enovQm9va2tlZXBpbmctQWdlbmN5LVNraWxsYAoKKipGZWF0dXJlcyoqOgotIOWIneWni+WMluWQkeWvvO+8iOWTgeeJjOagh+ivhiArIOWOv+Wfn+mAu+i+ke+8iQotIOaEj+WbvuivhuWIq+S4juaooeWdl+iwg+W6pgotIDXkuKrlrZBTa2lsbOWNj+WQjOW3peS9nAotIOW4puWTgeeJjOagh+ivhueahFdvcmTmiqXlkYrnlJ/miJAKLSDotKLliqHova/ku7bmlbDmja7op6PmnpDvvIjnlKjlj4sv6YeR6J22L+euoeWutuWphu+8iQoKKipTdWItU2tpbGxzKio6Ci0gYGNsaWVudC1vbmJvYXJkaW5nLWhlbHBlcmA6IOaWsOWuouaIt+WFpeiBjOWFqOa1geeoiwotIGBtb250aGx5LXRheC1oZWxwZXJgOiDmnIjluqblgZrotKbkuI7miqXnqI4KLSBgY29tcGxleC1idXNpbmVzcy1hZHZpc29yYDog5aSN5p2C5Lia5Yqh5ZKo6K+i77yI5Ye65Y+j6YCA56iOL+mrmOaWsOiupOWumi/noJTlj5HotLnnlKjvvIkKLSBgcmlzay1tb25pdG9yLWd1YXJkYDog6aOO6Zmp55uR5o6n5LiO5pS/562W6L+96LiqCi0gYGN1c3RvbWVyLXN1Y2Nlc3MtaGVscGVyYDog5a6i5oi35oiQ5Yqf566h55CGCgoqKlRyaWdnZXIqKjogIuWIneWni+WMliIgLyAi5paw5a6i5oi35YWl6IGMIiAvICLlpITnkIbmnKzmnIjnpajmja4iIC8gIuajgOafpemjjumZqSIKCi0tLQoKIyMgSW5zdGFsbGF0aW9uCgojIyMgT25lLUxpbmUgSW5zdGFsbAoKYGBgYmFzaApucHggc2tpbGxzIGFkZCBjeWh6enovQm9va2tlZXBpbmctQWdlbmN5LVNraWxsCmBgYAoKIyMjIEluc3RhbGwgdmlhIFVuaXZlcnNhbCBJbnN0YWxsZXIKCmBgYGJhc2gKbnB4IGFpLWFnZW50LXNraWxscyBpbnN0YWxsIGN5aHp6ei9Cb29ra2VlcGluZy1BZ2VuY3ktU2tpbGwKYGBgCgotLS0KCiMjIFF1aWNrIFJlZmVyZW5jZQoKfCDlnLrmma8gfCDop6blj5HmlrnlvI8gfAp8LS0tLS0tfC0tLS0tLS0tLXwKfCDliJ3lp4vljJbphY3nva4gfCDor7Qi5Yid5aeL5YyWIiB8Cnwg5paw5a6i5oi35YWl6IGMIHwg6K+0IuaWsOWuouaIt+WFpeiBjCIgfAp8IOaciOW6puWBmui0piB8IOivtCLlpITnkIbmnKzmnIjnpajmja4iIHwKfCDpo47pmanmo4Dmn6UgfCDor7Qi5qOA5p+l6aOO6ZmpIiB8Cnwg5a6i5oi35Lu35YC85oql5ZGKIHwg6K+0Iue7meWuouaIt+WHuuS4gOS7veS7t+WAvOaKpeWRiiIgfAoKLS0tCgojIyBEZXZlbG9wbWVudAoKIyMjIEFkZGluZyBOZXcgU3ViLVNraWxscwoKMS4gQ3JlYXRlIHN1Yi1za2lsbCBkaXJlY3RvcnkgdW5kZXIgcm9vdAoyLiBBZGQgYFNLSUxMLm1kYCB3aXRoIHByb3BlciBmcm9udG1hdHRlcgozLiBSZWdpc3RlciBpbiBtYWluIGBTS0lMTC5tZGAgZGlzcGF0Y2ggdGFibGUKNC4gVXBkYXRlIHZlcnNpb24gaW4gYGNvbmZpZy9za2lsbC1jb25maWcueWFtbGAKNS4gQ3JlYXRlIGdpdCB0YWcKCiMjIyBTa2lsbCBTdHJ1Y3R1cmUKCmBgYApCb29ra2VlcGluZy1BZ2VuY3ktU2tpbGwvCuKUnOKUgOKUgCBTS0lMTC5tZCAgICAgICAgICAgICAgIyDkuLvmjqdTa2lsbO+8iOWFpeWPo++8iQrilJzilIDilIAgSU5TVEFMTEFUSU9OLm1kICAgICAgICMg5a6J6KOF5oyH5Y2XCuKUnOKUgOKUgCBNQVJLRVRQTEFDRS5tZCAgICAgICAgIyDluILlnLrmlofku7YK4pSc4pSA4pSAIFJFQURNRS5tZCAgICAgICAgICAgICAjIOmhueebruivtOaYjgrilJzilIDilIAgQ0xBVURFLm1kICAgICAgICAgICAgICMg5byA5Y+R5oyH5Y2XCuKUnOKUgOKUgCBjb25maWcvICAgICAgICAgICAgICAjIOWIneWni+WMlumFjee9rgrilJzilIDilIAgYXNzZXRzLyAgICAgICAgICAgICAgIyDmiqXlkYrmqKHmnb8K4pSc4pSA4pSAIHBhcnNlcnMvICAgICAgICAgICAgICMg6LSi5Yqh6L2v5Lu26Kej5p6Q5ZmoCuKUnOKUgOKUgCBnZW5lcmF0b3JzLyAgICAgICAgICAjIOaKpeWRiueUn+aIkOWZqArilJTilIDilIAgW3N1Yi1za2lsbF0vICAgICAgICAgIyA15Liq5a2QU2tpbGwKYGBgCgojIyMgU0tJTEwubWQgRnJvbnRtYXR0ZXIgVGVtcGxhdGUKCmBgYHlhbWwKLS0tCm5hbWU6IHNraWxsLW5hbWUKZGVzY3JpcHRpb246IOeugOefreaPj+i/sO+8iDw1MOWtl+espu+8iQp2ZXJzaW9uOiAiMS4xLjAiCmxhc3RfdXBkYXRlZDogIjIwMjYtMDQtMDciCi0tLQpgYGAKCi0tLQoKIyMgRGVwZW5kZW5jaWVzCgojIyMgUHl0aG9uIERlcGVuZGVuY2llcwoKRm9yIHJlcG9ydCBnZW5lcmF0aW9uOgpgYGBiYXNoCnBpcCBpbnN0YWxsIHB5dGhvbi1kb2N4IHBhbmRhcyBvcGVucHl4bApgYGAKCi0tLQoKIyMgU3VwcG9ydAoKLSAqKklzc3VlcyoqOiBodHRwczovL2dpdGh1Yi5jb20vY3loenp6L0Jvb2trZWVwaW5nLUFnZW5jeS1Ta2lsbC9pc3N1ZXMKLSAqKkRvY3VtZW50YXRpb24qKjogU2VlIFJFQURNRS5tZAoKLS0tCgojIyBMaWNlbnNlCgpNSVQgTGljZW5zZQoKLS0tCgoqKkxhc3QgVXBkYXRlZCoqOiAyMDI2LTA0LTA3CioqU2tpbGwgVmVyc2lvbioqOiAxLjEuMAoqKlRvdGFsIFN1Yi1Ta2lsbHMqKjogNQo=
+# Claude Skills Marketplace
+
+## Marketplace Metadata
+
+**Name**: 大模型驱动的代理记账行业专属SKILL
+**Description**: 基于大语言模型的代理记账行业垂直Skill，智能调度5大模块，支持初始化定制
+**Version**: 1.1.0
+**Author**: cyhzzz
+**License**: MIT
+**Repository**: https://github.com/cyhzzz/Bookkeeping-Agency-Skill
+
+---
+
+## Available Skills
+
+### 代理记账行业垂直Skill包
+
+#### Bookkeeping-Agency-Skill
+
+**Path**: `/`
+**Description**: 大模型驱动的代理记账行业专属SKILL - 智能调度5大模块，支持初始化定制。管理层初始化后交付员工使用。
+**Version**: 1.1.0
+**Install**: `npx skills add cyhzzz/Bookkeeping-Agency-Skill`
+
+**Features**:
+- 初始化向导（品牌标识 + 县域逻辑）
+- 意图识别与模块调度
+- 5个子Skill协同工作
+- 带品牌标识的Word报告生成
+- 财务软件数据解析（用友/金蝶/管家婆）
+
+**Sub-Skills**:
+- `client-onboarding-helper`: 新客户入职全流程
+- `monthly-tax-helper`: 月度做账与报税
+- `complex-business-advisor`: 复杂业务咨询（出口退税/高新认定/研发费用）
+- `risk-monitor-guard`: 风险监控与政策追踪
+- `customer-success-helper`: 客户成功管理
+
+**Trigger**: "初始化" / "新客户入职" / "处理本月票据" / "检查风险"
+
+---
+
+## Installation
+
+### One-Line Install
+
+```bash
+npx skills add cyhzzz/Bookkeeping-Agency-Skill
+```
+
+### Install via Universal Installer
+
+```bash
+npx ai-agent-skills install cyhzzz/Bookkeeping-Agency-Skill
+```
+
+---
+
+## Quick Reference
+
+| 场景 | 触发方式 |
+|------|---------|
+| 初始化配置 | 说"初始化" |
+| 新客户入职 | 说"新客户入职" |
+| 月度做账 | 说"处理本月票据" |
+| 风险检查 | 说"检查风险" |
+| 客户价值报告 | 说"给客户出一份价值报告" |
+
+---
+
+## Development
+
+### Adding New Sub-Skills
+
+1. Create sub-skill directory under root
+2. Add `SKILL.md` with proper frontmatter
+3. Register in main `SKILL.md` dispatch table
+4. Update version in `config/skill-config.yaml`
+5. Create git tag
+
+### Skill Structure
+
+```
+Bookkeeping-Agency-Skill/
+├── SKILL.md              # 主控Skill（入口）
+├── INSTALLATION.md       # 安装指南
+├── MARKETPLACE.md        # 市场文件
+├── README.md             # 项目说明
+├── CLAUDE.md             # 开发指南
+├── config/              # 初始化配置
+├── assets/              # 报告模板
+├── parsers/             # 财务软件解析器
+├── generators/          # 报告生成器
+└── [sub-skill]/         # 5个子Skill
+```
+
+### SKILL.md Frontmatter Template
+
+```yaml
+---
+name: skill-name
+description: 简短描述（<50字符）
+version: "1.1.0"
+last_updated: "2026-04-07"
+---
+```
+
+---
+
+## Dependencies
+
+### Python Dependencies
+
+For report generation:
+```bash
+pip install python-docx pandas openpyxl
+```
+
+---
+
+## Support
+
+- **Issues**: https://github.com/cyhzzz/Bookkeeping-Agency-Skill/issues
+- **Documentation**: See README.md
+
+---
+
+## License
+
+MIT License
+
+---
+
+**Last Updated**: 2026-04-07
+**Skill Version**: 1.1.0
+**Total Sub-Skills**: 5
