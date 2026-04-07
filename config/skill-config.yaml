@@ -1,0 +1,94 @@
+# AI代账工具配置
+# 此文件追踪各子Skill的初始化状态和版本
+
+version: "2.0.0"
+last_updated: "2026-04-07"
+
+# 初始化状态
+initialization:
+  status: "pending"  # pending / in_progress / completed
+  started_at: null
+  completed_at: null
+
+# 公司信息（初始化时填写）
+company:
+  name: ""
+  short_name: ""  # 简称/品牌名
+  phone: ""
+  address: ""
+  website: ""  # 公众号/官网
+  logo_path: ""  # logo文件路径
+
+# 县域配置（初始化时填写）
+county_config:
+  # 客户群体特征
+  customer_industries: []  # 主要行业
+  customer_scale: ""  # 小规模为主/一般纳税人较多/混合
+  complex_business_types: []  # 常见复杂业务
+
+  # 当地税务特点
+  tax_authority_style: ""  # 查账征收/核定征收/两者都有
+  special_policies: ""  # 当地特殊优惠政策
+  filing_deadline_reminder: ""  # 申报截止日提醒习惯
+
+# 子Skill版本追踪
+sub_skills:
+  client-onboarding-helper:
+    version: "1.1.0"
+    last_updated: "2026-04-07"
+    initialized: false
+    trigger_keywords: ["新客户", "入职", "建账", "开通"]
+    automation_level: "high"  # high / standard / strict
+
+  monthly-tax-helper:
+    version: "1.1.0"
+    last_updated: "2026-04-07"
+    initialized: false
+    trigger_keywords: ["本月", "票据", "发票", "凭证", "申报", "纳税"]
+    automation_level: "high"
+    confirmation_points:
+      - "申报数据确认"
+      - "报告确认"
+
+  complex-business-advisor:
+    version: "1.1.0"
+    last_updated: "2026-04-07"
+    initialized: false
+    trigger_keywords: ["出口退税", "研发费", "高新", "跨区域"]
+    double_check_required: true  # 出口退税必须双人复核
+    automation_level: "strict"
+
+  risk-monitor-guard:
+    version: "1.1.0"
+    last_updated: "2026-04-07"
+    initialized: false
+    trigger_keywords: ["风险", "检查", "预警", "体检"]
+    automation_level: "high"
+    risk_thresholds:  # 风险预警阈值
+      high: 75
+      medium: 50
+      low: 25
+
+  customer-success-helper:
+    version: "1.1.0"
+    last_updated: "2026-04-07"
+    initialized: false
+    trigger_keywords: ["价值", "满意度", "流失", "客户分析"]
+    automation_level: "standard"
+
+# 意图识别配置
+intent_classifier:
+  confidence_threshold: 0.7
+  fallback_module: "monthly-tax-helper"
+
+# 输出配置
+output:
+  default_format: "both"  # md / docx / both
+  project_folder: ""  # 初始化时设置
+  report_naming: "{客户名}_{报告类型}_{日期}"  # 文件命名格式
+  language_style: "concise"  # 正式 / 简洁 / 详细
+
+# 财务软件对接配置
+financial_software:
+  supported: ["kingdee", "yonyou", "chanjet"]
+  primary: ""  # 主要使用的财务软件

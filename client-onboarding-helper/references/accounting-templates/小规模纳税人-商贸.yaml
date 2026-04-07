@@ -1,0 +1,55 @@
+# 小规模纳税人-商贸 会计科目表模板
+# 适用：小规模纳税人，经营范围含批发、零售、贸易、经销、销售
+
+taxpayer_type: 小规模纳税人
+industry_category: 商贸
+description: 小规模纳税人商贸企业标准科目表，共8个科目
+
+subjects:
+  - sequence: 1
+    code: "1001"
+    name: "库存现金"
+    direction: "借"
+    category: "资产类"
+
+  - sequence: 2
+    code: "1002"
+    name: "银行存款"
+    direction: "借"
+    category: "资产类"
+
+  - sequence: 3
+    code: "1122"
+    name: "应收账款"
+    direction: "借"
+    category: "资产类"
+
+  - sequence: 4
+    code: "2202"
+    name: "应付账款"
+    direction: "贷"
+    category: "负债类"
+
+  - sequence: 5
+    code: "4001"
+    name: "实收资本"
+    direction: "贷"
+    category: "权益类"
+
+  - sequence: 6
+    code: "5001"
+    name: "主营业务收入"
+    direction: "贷"
+    category: "损益类"
+
+  - sequence: 7
+    code: "6401"
+    name: "主营业务成本"
+    direction: "借"
+    category: "损益类"
+
+  - sequence: 8
+    code: "6602"
+    name: "销售费用"
+    direction: "借"
+    category: "损益类"

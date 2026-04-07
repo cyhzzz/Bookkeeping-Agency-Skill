@@ -1,0 +1,31 @@
+kingdee:
+  name: "金蝶KIS"
+  supported_versions: ["KIS14.0", "KIS15.0", "KIS16.0"]
+  export_format: "docx"
+  features:
+    - name: "凭证"
+      fields: ["日期", "凭证号", "摘要", "科目编码", "科目名称", "借方金额", "贷方金额"]
+    - name: "科目余额表"
+      fields: ["科目编码", "科目名称", "期初余额", "借方发生", "贷方发生", "期末余额"]
+    - name: "日记账"
+      fields: ["日期", "凭证号", "摘要", "借方金额", "贷方金额", "余额"]
+
+yonyou:
+  name: "用友U8/U9"
+  supported_versions: ["U8v13.0", "U9v5.0", "NC6.5"]
+  export_format: "xlsx"
+  features:
+    - name: "记账凭证"
+      fields: ["制单日期", "凭证字号", "会计科目", "金额", "附件数"]
+    - name: "明细账"
+      fields: ["日期", "凭证号", "摘要", "科目", "借方", "贷方", "方向", "余额"]
+
+chanjet:
+  name: "畅捷通T+/T6"
+  supported_versions: ["T+13.0", "T6v6.1"]
+  export_format: "xlsx"
+  features:
+    - name: "凭证库"
+      fields: ["凭证日期", "凭证编号", "科目编码", "科目名称", "借方", "贷方"]
+    - name: "科目余额表"
+      fields: ["科目编码", "科目名称", "期初余额", "本期借方", "本期贷方", "期末余额"]

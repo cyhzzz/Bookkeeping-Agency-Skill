@@ -1,0 +1,103 @@
+# 一般纳税人-服务 会计科目表模板
+# 适用：一般纳税人，经营范围含服务、咨询、管理、广告、设计、传媒
+
+taxpayer_type: 一般纳税人
+industry_category: 服务
+description: 一般纳税人服务企业标准科目表，共16个科目
+
+subjects:
+  - sequence: 1
+    code: "1001"
+    name: "库存现金"
+    direction: "借"
+    category: "资产类"
+
+  - sequence: 2
+    code: "1002"
+    name: "银行存款"
+    direction: "借"
+    category: "资产类"
+
+  - sequence: 3
+    code: "1122"
+    name: "应收账款"
+    direction: "借"
+    category: "资产类"
+
+  - sequence: 4
+    code: "1123"
+    name: "预付账款"
+    direction: "借"
+    category: "资产类"
+
+  - sequence: 5
+    code: "1601"
+    name: "固定资产"
+    direction: "借"
+    category: "资产类"
+
+  - sequence: 6
+    code: "2202"
+    name: "应付账款"
+    direction: "贷"
+    category: "负债类"
+
+  - sequence: 7
+    code: "2221"
+    name: "应交税费"
+    direction: "贷"
+    category: "负债类"
+
+  - sequence: 8
+    code: "222101"
+    name: "应交增值税-进项税额"
+    direction: "借"
+    category: "负债类-应交税费"
+
+  - sequence: 9
+    code: "222102"
+    name: "应交增值税-销项税额"
+    direction: "贷"
+    category: "负债类-应交税费"
+
+  - sequence: 10
+    code: "4001"
+    name: "实收资本"
+    direction: "贷"
+    category: "权益类"
+
+  - sequence: 11
+    code: "6051"
+    name: "其他业务收入"
+    direction: "贷"
+    category: "损益类"
+
+  - sequence: 12
+    code: "6403"
+    name: "其他业务成本"
+    direction: "借"
+    category: "损益类"
+
+  - sequence: 13
+    code: "6602"
+    name: "销售费用"
+    direction: "借"
+    category: "损益类"
+
+  - sequence: 14
+    code: "6603"
+    name: "管理费用"
+    direction: "借"
+    category: "损益类"
+
+  - sequence: 15
+    code: "6604"
+    name: "财务费用"
+    direction: "借"
+    category: "损益类"
+
+  - sequence: 16
+    code: "6801"
+    name: "所得税费用"
+    direction: "借"
+    category: "损益类"

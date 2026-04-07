@@ -1,0 +1,74 @@
+intents:
+  - name: "新客户接入"
+    trigger_keywords: ["新客户", "入职", "建账", "开通", "新公司", "新签约", "新办", "新开户"]
+    confidence_threshold: 0.7
+    module: "client-onboarding-helper"
+
+  - name: "月度报税"
+    trigger_keywords: ["本月", "本月度", "票据", "发票", "凭证", "申报", "纳税", "报税", "月度报告", "月报"]
+    confidence_threshold: 0.7
+    module: "monthly-tax-helper"
+
+  - name: "出口退税"
+    trigger_keywords: ["出口退税", "报关单", "退税申报", "退税款"]
+    confidence_threshold: 0.8
+    module: "complex-business-advisor"
+    sub_module: "export_rebate"
+
+  - name: "研发费用加计扣除"
+    trigger_keywords: ["研发费用", "加计扣除", "研发费", "研发支出"]
+    confidence_threshold: 0.8
+    module: "complex-business-advisor"
+    sub_module: "rd_expense"
+
+  - name: "高新企业认定"
+    trigger_keywords: ["高新", "高新技术", "高新企业", "高新认定"]
+    confidence_threshold: 0.8
+    module: "complex-business-advisor"
+    sub_module: "high_tech"
+
+  - name: "跨区域经营"
+    trigger_keywords: ["跨区域", "分公司", "总分机构", "分支机构"]
+    confidence_threshold: 0.8
+    module: "complex-business-advisor"
+    sub_module: "cross_region"
+
+  - name: "税务风险"
+    trigger_keywords: ["税务风险", "税负率", "风险检查", "风险预警", "税务检查"]
+    confidence_threshold: 0.7
+    module: "risk-monitor-guard"
+    sub_module: "tax_risk"
+
+  - name: "账务健康"
+    trigger_keywords: ["账务健康", "健康诊断", "凭证检查", "账务检查"]
+    confidence_threshold: 0.7
+    module: "risk-monitor-guard"
+    sub_module: "account_health"
+
+  - name: "政策追踪"
+    trigger_keywords: ["政策变动", "新政策", "政策解读", "政策追踪"]
+    confidence_threshold: 0.7
+    module: "risk-monitor-guard"
+    sub_module: "policy_tracking"
+
+  - name: "客户流失预警"
+    trigger_keywords: ["流失", "流失预警", "预警客户", "流失风险"]
+    confidence_threshold: 0.7
+    module: "customer-success-helper"
+    sub_module: "churn_prevention"
+
+  - name: "客户价值"
+    trigger_keywords: ["价值报告", "服务价值", "客户价值", "价值分析"]
+    confidence_threshold: 0.7
+    module: "customer-success-helper"
+    sub_module: "value_report"
+
+  - name: "满意度调研"
+    trigger_keywords: ["满意度", "客户调研", "服务评价"]
+    confidence_threshold: 0.7
+    module: "customer-success-helper"
+    sub_module: "satisfaction_survey"
+
+fallback:
+  module: "monthly-tax-helper"
+  message: "我理解您需要帮助，请描述更具体一些，例如：'帮我处理本月票据'或'新客户入职建账'"
