@@ -1,1 +1,207 @@
-IyBJbnN0YWxsYXRpb24gR3VpZGUgLSDlpKfmqKHlnovpqbHliqjnmoTku6PnkIborrDotKbooYzkuJrkuJPlsZ5TS0lMTAoK5Z+65LqO5aSn6K+t6KiA5qih5Z6L55qE5Luj55CG6K6w6LSm6KGM5Lia5Z6C55u0U2tpbGzjgILlrozmlbTnmoTlronoo4XmjIfljZfjgIIKCi0tLQoKIyMgVGFibGUgb2YgQ29udGVudHMKCi0gW1F1aWNrIFN0YXJ0XSgjcXVpY2stc3RhcnQpCi0gW0NsYXVkZSBDb2RlIE5hdGl2ZSBNYXJrZXRwbGFjZV0oI2NsYXVkZS1jb2RlLW5hdGl2ZS1tYXJrZXRwbGFjZS1yZWNvbW1lbmRlZCkKLSBbVW5pdmVyc2FsIEluc3RhbGxlcl0oI3VuaXZlcnNhbC1pbnN0YWxsZXIpCi0gW01hbnVhbCBJbnN0YWxsYXRpb25dKCNtYW51YWwtaW5zdGFsbGF0aW9uKQotIFtWZXJpZmljYXRpb24gJiBUZXN0aW5nXSgjdmVyaWZpY2F0aW9uLS10ZXN0aW5nKQotIFtUcm91Ymxlc2hvb3RpbmddKCN0cm91Ymxlc2hvb3RpbmcpCi0gW1VuaW5zdGFsbGF0aW9uXSgjdW5pbnN0YWxsYXRpb24pCgotLS0KCiMjIFF1aWNrIFN0YXJ0CgojIyMgRm9yIENsYXVkZSBDb2RlIFVzZXJzIChSZWNvbW1lbmRlZCkKCmBgYGJhc2gKbnB4IHNraWxscyBhZGQgY3loenp6L0Jvb2trZWVwaW5nLUFnZW5jeS1Ta2lsbApgYGAKCiMjIyBGb3IgQWxsIE90aGVyIEFnZW50cyAoQ3Vyc29yLCBWUyBDb2RlLCBldGMuKQoKYGBgYmFzaApucHggYWktYWdlbnQtc2tpbGxzIGluc3RhbGwgY3loenp6L0Jvb2trZWVwaW5nLUFnZW5jeS1Ta2lsbApgYGAKCi0tLQoKIyMgQ2xhdWRlIENvZGUgTmF0aXZlIE1hcmtldHBsYWNlIChSZWNvbW1lbmRlZCkKCiMjIyBTdGVwIDE6IEluc3RhbGwgdGhlIFNraWxsCgpgYGBiYXNoCm5weCBza2lsbHMgYWRkIGN5aHp6ei9Cb29ra2VlcGluZy1BZ2VuY3ktU2tpbGwKYGBgCgojIyMgU3RlcCAyOiBWZXJpZnkgSW5zdGFsbGF0aW9uCgpgYGBiYXNoCiMgU2tpbGwg5bey5a6J6KOF77yM55u05o6l6K+0IuWIneWni+WMliLlvIDlp4vphY3nva4KYGBgCgojIyMgVXBkYXRlIFNraWxsCgpgYGBiYXNoCm5weCBza2lsbHMgdXBkYXRlIGN5aHp6ei9Cb29ra2VlcGluZy1BZ2VuY3ktU2tpbGwKYGBgCgojIyMgUmVtb3ZlIFNraWxsCgpgYGBiYXNoCm5weCBza2lsbHMgcmVtb3ZlIEJvb2trZWVwaW5nLUFnZW5jeS1Ta2lsbApgYGAKCi0tLQoKIyMgVW5pdmVyc2FsIEluc3RhbGxlcgoK6YCa55So5a6J6KOF5Zmo5L2/55SoIFthaS1hZ2VudC1za2lsbHNdKGh0dHBzOi8vZ2l0aHViLmNvbS9za2lsbGNyZWF0b3JhaS9BaS1BZ2VudC1Ta2lsbHMpIOWMheOAggoKIyMjIEluc3RhbGwgdG8gQWxsIFN1cHBvcnRlZCBBZ2VudHMKCmBgYGJhc2gKbnB4IGFpLWFnZW50LXNraWxscyBpbnN0YWxsIGN5aHp6ei9Cb29ra2VlcGluZy1BZ2VuY3ktU2tpbGwKYGBgCgojIyMgSW5zdGFsbCB0byBTcGVjaWZpYyBBZ2VudAoKYGBgYmFzaAojIENsYXVkZSBDb2RlIG9ubHkKbnB4IGFpLWFnZW50LXNraWxscyBpbnN0YWxsIGN5aHp6ei9Cb29ra2VlcGluZy1BZ2VuY3ktU2tpbGwgLS1hZ2VudCBjbGF1ZGUKCiMgQ3Vyc29yIG9ubHkKbnB4IGFpLWFnZW50LXNraWxscyBpbnN0YWxsIGN5aHp6ei9Cb29ra2VlcGluZy1BZ2VuY3ktU2tpbGwgLS1hZ2VudCBjdXJzb3IKYGBgCgotLS0KCiMjIE1hbnVhbCBJbnN0YWxsYXRpb24KCueUqOS6juW8gOWPkeOAgeWumuWItuaIluemu+e6v+S9v+eUqOOAggoKIyMjIFByZXJlcXVpc2l0ZXMKCi0gKipHaXQqKgotICoqQ2xhdWRlIENvZGUqKiAoZm9yIHVzaW5nIHNraWxscykKLSAqKlB5dGhvbiAzLjcrKiogKGZvciByZXBvcnQgZ2VuZXJhdGlvbiBzY3JpcHRzKQoKIyMjIFN0ZXAgMTogQ2xvbmUgUmVwb3NpdG9yeQoKYGBgYmFzaApnaXQgY2xvbmUgaHR0cHM6Ly9naXRodWIuY29tL2N5aHp6ei9Cb29ra2VlcGluZy1BZ2VuY3ktU2tpbGwuZ2l0CmNkIEJvb2trZWVwaW5nLUFnZW5jeS1Ta2lsbApgYGAKCiMjIyBTdGVwIDI6IENvcHkgdG8gQWdlbnQgRGlyZWN0b3J5CgojIyMjIEZvciBDbGF1ZGUgQ29kZQoKYGBgYmFzaApjcCAtciBCb29ra2VlcGluZy1BZ2VuY3ktU2tpbGwgfi8uY2xhdWRlL3NraWxscy8KYGBgCgojIyMjIEZvciBDdXJzb3IKCmBgYGJhc2gKbWtkaXIgLXAgLmN1cnNvci9za2lsbHMKY3AgLXIgQm9va2tlZXBpbmctQWdlbmN5LVNraWxsIC5jdXJzb3Ivc2tpbGxzLwpgYGAKCiMjIyMgRm9yIFZTIENvZGUvQ29waWxvdAoKYGBgYmFzaApta2RpciAtcCAuZ2l0aHViL3NraWxscwpjcCAtciBCb29ra2VlcGluZy1BZ2VuY3ktU2tpbGwgLmdpdGh1Yi9za2lsbHMvCmBgYAoKLS0tCgojIyBWZXJpZmljYXRpb24gJiBUZXN0aW5nCgojIyMgVmVyaWZ5IEluc3RhbGxhdGlvbgoKYGBgYmFzaAojIENoZWNrIHRoYXQgc2tpbGwgaXMgcHJlc2VudApscyB+Ly5jbGF1ZGUvc2tpbGxzL0Jvb2trZWVwaW5nLUFnZW5jeS1Ta2lsbC8KYGBgCgojIyMgRmlyc3QgVXNlOiBSdW4gSW5pdGlhbGl6YXRpb24KCmBgYAror7Qi5Yid5aeL5YyWIuWQr+WKqOmFjee9ruWQkeWvvAoKQUnvvJrmrKLov47kvb/nlKjku6PnkIborrDotKbooYzkuJpTS0lMTOWIneWni+WMluWQkeWvvO+8gQogICAg6K+35o+Q5L6b5YWs5Y+45L+h5oGv44CBTG9nb+OAgeW9k+WcsOWunuaDhS4uLgpgYGAKCi0tLQoKIyMgVHJvdWJsZXNob290aW5nCgojIyMgSXNzdWU6ICJTa2lsbHMgbm90IHNob3dpbmcgaW4gQ2xhdWRlIENvZGUiCgoqKlNvbHV0aW9uOioqIFZlcmlmeSBpbnN0YWxsYXRpb24gYW5kIHJlc3RhcnQKCmBgYGJhc2gKIyBDaGVjayBpbnN0YWxsYXRpb24KbHMgLWxhIH4vLmNsYXVkZS9za2lsbHMvCgojIFZlcmlmeSBTS0lMTC5tZCBleGlzdHMKY2F0IH4vLmNsYXVkZS9za2lsbHMvQm9va2tlZXBpbmctQWdlbmN5LVNraWxsL1NLSUxMLm1kCgojIFJlc3RhcnQgQ2xhdWRlIENvZGUKYGBgCgojIyMgSXNzdWU6ICJQeXRob24gbW9kdWxlIG5vdCBmb3VuZCIKCioqU29sdXRpb246KiogSW5zdGFsbCBkZXBlbmRlbmNpZXMKCmBgYGJhc2gKcGlwIGluc3RhbGwgcHl0aG9uLWRvY3ggcGFuZGFzIG9wZW5weXhsCmBgYAoKLS0tCgojIyBVbmluc3RhbGxhdGlvbgoKIyMjIENsYXVkZSBDb2RlCgpgYGBiYXNoCm5weCBza2lsbHMgcmVtb3ZlIEJvb2trZWVwaW5nLUFnZW5jeS1Ta2lsbApgYGAKCiMjIyBVbml2ZXJzYWwgSW5zdGFsbGVyCgpgYGBiYXNoCiMgUmVtb3ZlIGZyb20gQ2xhdWRlIENvZGUKcm0gLXJmIH4vLmNsYXVkZS9za2lsbHMvQm9va2tlZXBpbmctQWdlbmN5LVNraWxsLwoKIyBSZW1vdmUgZnJvbSBDdXJzb3IKcm0gLXJmIC5jdXJzb3Ivc2tpbGxzL0Jvb2trZWVwaW5nLUFnZW5jeS1Ta2lsbC8KYGBgCgojIyMgTWFudWFsIEluc3RhbGxhdGlvbgoKYGBgYmFzaAojIFJlbW92ZSBmcm9tIENsYXVkZSBDb2RlCnJtIC1yZiB+Ly5jbGF1ZGUvc2tpbGxzL0Jvb2trZWVwaW5nLUFnZW5jeS1Ta2lsbC8KYGBgCgotLS0KCiMjIFN1cHBvcnQKCioqSW5zdGFsbGF0aW9uIElzc3Vlcz8qKgotIE9wZW4gaXNzdWU6IGh0dHBzOi8vZ2l0aHViLmNvbS9jeWh6enovQm9va2tlZXBpbmctQWdlbmN5LVNraWxsL2lzc3VlcwoKLS0tCgoqKkxhc3QgVXBkYXRlZDoqKiAyMDI2LTA0LTA3CioqU2tpbGwgVmVyc2lvbjoqKiAxLjEuMAo=
+# Installation Guide - 大模型驱动的代理记账行业专属SKILL
+
+基于大语言模型的代理记账行业垂直Skill。完整的安装指南。
+
+---
+
+## Table of Contents
+
+- [Quick Start](#quick-start)
+- [Claude Code Native Marketplace](#claude-code-native-marketplace-recommended)
+- [Universal Installer](#universal-installer)
+- [Manual Installation](#manual-installation)
+- [Verification & Testing](#verification--testing)
+- [Troubleshooting](#troubleshooting)
+- [Uninstallation](#uninstallation)
+
+---
+
+## Quick Start
+
+### For Claude Code Users (Recommended)
+
+```bash
+npx skills add cyhzzz/Bookkeeping-Agency-Skill
+```
+
+### For All Other Agents (Cursor, VS Code, etc.)
+
+```bash
+npx ai-agent-skills install cyhzzz/Bookkeeping-Agency-Skill
+```
+
+---
+
+## Claude Code Native Marketplace (Recommended)
+
+### Step 1: Install the Skill
+
+```bash
+npx skills add cyhzzz/Bookkeeping-Agency-Skill
+```
+
+### Step 2: Verify Installation
+
+```bash
+# Skill 已安装，直接说"初始化"开始配置
+```
+
+### Update Skill
+
+```bash
+npx skills update cyhzzz/Bookkeeping-Agency-Skill
+```
+
+### Remove Skill
+
+```bash
+npx skills remove Bookkeeping-Agency-Skill
+```
+
+---
+
+## Universal Installer
+
+通用安装器使用 [ai-agent-skills](https://github.com/skillcreatorai/Ai-Agent-Skills) 包。
+
+### Install to All Supported Agents
+
+```bash
+npx ai-agent-skills install cyhzzz/Bookkeeping-Agency-Skill
+```
+
+### Install to Specific Agent
+
+```bash
+# Claude Code only
+npx ai-agent-skills install cyhzzz/Bookkeeping-Agency-Skill --agent claude
+
+# Cursor only
+npx ai-agent-skills install cyhzzz/Bookkeeping-Agency-Skill --agent cursor
+```
+
+---
+
+## Manual Installation
+
+用于开发、定制或离线使用。
+
+### Prerequisites
+
+- **Git**
+- **Claude Code** (for using skills)
+- **Python 3.7+** (for report generation scripts)
+
+### Step 1: Clone Repository
+
+```bash
+git clone https://github.com/cyhzzz/Bookkeeping-Agency-Skill.git
+cd Bookkeeping-Agency-Skill
+```
+
+### Step 2: Copy to Agent Directory
+
+#### For Claude Code
+
+```bash
+cp -r Bookkeeping-Agency-Skill ~/.claude/skills/
+```
+
+#### For Cursor
+
+```bash
+mkdir -p .cursor/skills
+cp -r Bookkeeping-Agency-Skill .cursor/skills/
+```
+
+#### For VS Code/Copilot
+
+```bash
+mkdir -p .github/skills
+cp -r Bookkeeping-Agency-Skill .github/skills/
+```
+
+---
+
+## Verification & Testing
+
+### Verify Installation
+
+```bash
+# Check that skill is present
+ls ~/.claude/skills/Bookkeeping-Agency-Skill/
+```
+
+### First Use: Run Initialization
+
+```
+说"初始化"启动配置向导
+
+AI：欢迎使用代理记账行业SKILL初始化向导！
+    请提供公司信息、Logo、当地实情...
+```
+
+---
+
+## Troubleshooting
+
+### Issue: "Skills not showing in Claude Code"
+
+**Solution:** Verify installation and restart
+
+```bash
+# Check installation
+ls -la ~/.claude/skills/
+
+# Verify SKILL.md exists
+cat ~/.claude/skills/Bookkeeping-Agency-Skill/SKILL.md
+
+# Restart Claude Code
+```
+
+### Issue: "Python module not found"
+
+**Solution:** Install dependencies
+
+```bash
+pip install python-docx pandas openpyxl
+```
+
+---
+
+## Uninstallation
+
+### Claude Code
+
+```bash
+npx skills remove Bookkeeping-Agency-Skill
+```
+
+### Universal Installer
+
+```bash
+# Remove from Claude Code
+rm -rf ~/.claude/skills/Bookkeeping-Agency-Skill/
+
+# Remove from Cursor
+rm -rf .cursor/skills/Bookkeeping-Agency-Skill/
+```
+
+### Manual Installation
+
+```bash
+# Remove from Claude Code
+rm -rf ~/.claude/skills/Bookkeeping-Agency-Skill/
+```
+
+---
+
+## Support
+
+**Installation Issues?**
+- Open issue: https://github.com/cyhzzz/Bookkeeping-Agency-Skill/issues
+
+---
+
+**Last Updated:** 2026-04-07
+**Skill Version:** 1.1.0
