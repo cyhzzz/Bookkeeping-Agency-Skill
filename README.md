@@ -1,1 +1,139 @@
-IyDlpKfmqKHlnovpqbHliqjnmoTku6PnkIborrDotKbooYzkuJrkuJPlsZ5TS0lMTAoK5Z+65LqO5aSn6K+t6KiA5qih5Z6L55qE5Luj55CG6K6w6LSm6KGM5Lia5Z6C55u0U2tpbGzvvIzmlK/mjIHnrqHnkIblsYLliJ3lp4vljJblrprliLblkI7kuqTku5jlkZjlt6Xkvb/nlKjjgIIKCiMjIOezu+e7n+aetuaehAoKIVvns7vnu5/mnrbmnoRdKC4v6aG555uu5paH5qGjL2FpX2FjY291bnRpbmdfYXJjaC5wbmcpCgojIyDmlofku7bnu5PmnoQKCiFb5paH5Lu257uT5p6EXSguL+mhueebruaWh+ahoy9kYWlsaV9qaXpoYW5nX3NraWxsLnBuZykKCiMjIOaTjeS9nOaMh+W8lQoKIVvmk43kvZzmjIflvJVdKC4v6aG555uu5paH5qGjL29wZXJhdGlvbl9ndWlkZS5wbmcpCgojIyDmoLjlv4PnkIblv7UKCioq566h55CG5bGC5Yid5aeL5YyWIOKGkiDlk4HniYzmoIfor4blrprliLYg4oaSIOWOv+Wfn+mAu+i+keW+ruiwgyDihpIg5Lqk5LuY5ZGY5bel5L2/55SoKioKCiMjIOWuieijhQoK5bCG5pW05Liq5paH5Lu25aS55L2c5Li6U2tpbGzlronoo4XliLBBSSBBZ2VudOW3peS9nOWPsO+8mgpgYGAKRDpccHJvamVjdFxza2lsbHNc5Luj55CG6K6w6LSmXApgYGAKCiMjIOWIneWni+WMlgoK6aaW5qyh5L2/55So77yM6K+0IuWIneWni+WMliLlkK/liqjphY3nva7lkJHlr7zvvJoKCmBgYApBSe+8muasoui/juS9v+eUqOS7o+eQhuiusOi0puihjOS4mlNraWxs5Yid5aeL5YyW5ZCR5a+877yBCiAgICDor7fmj5Dkvpvlhazlj7jkv6Hmga/jgIFMb2dv44CB5b2T5Zyw5a6e5oOFLi4uCmBgYAoKQUnoh6rliqjlrozmiJDvvJoKLSDlk4HniYzmoIfor4bmm7TmlrDliLDmiYDmnInmiqXlkYrmqKHmnb8KLSDljr/ln5/pgLvovpHlvq7osIPliLDlkITlrZBTa2lsbAotIOeJiOacrOWPt+abtOaWsO+8iHYxLjAuMCDihpIgdjEuMS4w77yJCgojIyDliJ3lp4vljJbphY3nva7pobkKCiMjIyDlk4HniYzkv6Hmga8KfCDphY3nva7pobkgfCDor7TmmI4gfAp8LS0tLS0tLS18LS0tLS0tfAp8IOWFrOWPuOWQjeensCB8IOWFqOensO+8jOeUqOS6juaKpeWRiuiQveasviB8Cnwg566A56ewL+WTgeeJjOWQjSB8IOeUqOS6juaWh+S7tuWQjeWSjOeugOensCB8Cnwg6IGU57O755S16K+dIHwg5oql5ZGK6IGU57O75L+h5oGvIHwKfCBMb2dvIHwg6Ieq5Yqo5re75Yqg5YiwV29yZOaKpeWRiumhteeciSB8CgojIyMg5Y6/5Z+f5a6e5oOFCnwg6YWN572u6aG5IHwg6K+05piOIHwKfC0tLS0tLS0tfC0tLS0tLXwKfCDlrqLmiLfooYzkuJrliIbluIMgfCDosIPmlbTooYzkuJrnqI7otJ/njofln7rlh4YgfAp8IOeojuWKoeeJueeCuSB8IOafpei0puW+geaUti/moLjlrprlvoHmlLYgfAp8IOeJueauiuS8mOaDoOaUv+etliB8IOabtOaWsOaUv+etlui/vei4qumAu+i+kSB8Cnwg55Sz5oql5oiq5q2i5Lmg5oOvIHwg6K6+572u5o+Q6YaS5pe26Ze0IHwKCiMjIyDovpPlh7rmoLzlvI8KfCDphY3nva7pobkgfCDor7TmmI4gfAp8LS0tLS0tLS18LS0tLS0tfAp8IOaKpeWRiuWGheWuuSB8IOaciOW6puaKpeWRiuWMheWQq+WTquS6m+eroOiKgiB8Cnwg6K+t6KiA6aOO5qC8IHwg5q2j5byPL+eugOa0gS/or6bnu4YgfAp8IOaWh+S7tuWRveWQjSB8IHvlrqLmiLflkI19X3vnsbvlnot9X3vml6XmnJ99IHwKCiMjIyDnoa7orqToioLngrkKfCDoh6rliqjljJbnqIvluqYgfCDor7TmmI4gfAp8LS0tLS0tLS0tLS0tfC0tLS0tLXwKfCDpq5joh6rliqjljJYgfCDku4XlhbPplK7oioLngrnnoa7orqQgfAp8IOagh+WHhuiHquWKqOWMliB8IOW5s+ihoeaViOeOh+S4juWuieWFqCB8Cnwg5Lil5qC85a6h5qC4IHwg5q+P5q2l6YO956Gu6K6kIHwKCiMjIOWtkFNraWxs54mI5pysCgp8IOaooeWdlyB8IOeJiOacrCB8IOWIneWni+WMlueKtuaAgSB8CnwtLS0tLS18LS0tLS0tfC0tLS0tLS0tLS0tfAp8IGNsaWVudC1vbmJvYXJkaW5nLWhlbHBlciB8IHYxLjEuMCB8IOW+heWIneWni+WMliB8CnwgbW9udGhseS10YXgtaGVscGVyIHwgdjEuMS4wIHwg5b6F5Yid5aeL5YyWIHwKfCBjb21wbGV4LWJ1c2luZXNzLWFkdmlzb3IgfCB2MS4xLjAgfCDlvoXliJ3lp4vljJYgfAp8IHJpc2stbW9uaXRvci1ndWFyZCB8IHYxLjEuMCB8IOW+heWIneWni+WMliB8CnwgY3VzdG9tZXItc3VjY2Vzcy1oZWxwZXIgfCB2MS4xLjAgfCDlvoXliJ3lp4vljJYgfAoK5p+l55yL54mI5pys77ya6K+0Iuafpeeci+eJiOacrCIKCiMjIOWRmOW3peS9v+eUqAoK5Yid5aeL5YyW5a6M5oiQ5ZCO77yM5ZGY5bel55u05o6l6K+06ZyA5rGC5Y2z5Y+v77yaCgp8IOWcuuaZryB8IOWRmOW3pei/meagt+ivtCB8CnwtLS0tLS18LS0tLS0tLS0tLS18Cnwg5paw5a6i5oi35YWl6IGMIHwgIuaWsOWuouaIt+WFpeiBjCIgfAp8IOaciOW6puaKpeeojiB8ICLlpITnkIbmnKzmnIjnpajmja4iIHwKfCDpo47pmanmo4Dmn6UgfCAi5qOA5p+l5LiA5LiL6L+Z5Liq5a6i5oi355qE56iO5Yqh6aOO6ZmpIiB8Cnwg5a6i5oi35Lu35YC8IHwgIue7meWuouaIt+WHuuS4gOS7veS7t+WAvOaKpeWRiiIgfAoKQUnoh6rliqjvvJoKMS4g6K+G5Yir5oSP5Zu+CjIuIOiwg+W6puWvueW6lOaooeWdlwozLiDnlJ/miJDluKblk4HniYzmoIfor4bnmoRXb3Jk5oql5ZGKCgojIyDmlofku7bnu5PmnoQKCmBgYArku6PnkIborrDotKYvCuKUnOKUgOKUgCBTS0lMTC5tZCAgICAgICAgICAgICAgICAgICAgICAjIOS4u+aOp1NraWxs77yI5YWl5Y+j77yJCuKUnOKUgOKUgCBSRUFETUUubWQgICAgICAgICAgICAgICAgICAgICMg5pys5paH5Lu2CuKUnOKUgOKUgCBDTEFVREUubWQgICAgICAgICAgICAgICAgICAgICMg5byA5Y+R5oyH5Y2XCuKUggrilJzilIDilIAgY29uZmlnLwrilIIgICDilJTilIDilIAgc2tpbGwtY29uZmlnLnlhbWwgICAgICAgIyDliJ3lp4vljJbphY3nva7lkozniYjmnKzov73ouKoK4pSCCuKUnOKUgOKUgCBhc3NldHMvCuKUgiAgIOKUlOKUgOKUgCByZXBvcnQtdGVtcGxhdGVzLyAgICAgICAjIOaKpeWRiuaooeadv++8iOWQq+WTgeeJjOWNoOS9jeespu+8iQrilIIK4pSc4pSA4pSAIHBhcnNlcnMvICAgICAgICAgICAgICAgICAgICAjIOi0ouWKoei9r+S7tuino+aekOWZqArilJzilIDilIAgZ2VuZXJhdG9ycy8gICAgICAgICAgICAgICAgICMg5oql5ZGK55Sf5oiQ5ZmoCuKUggrilJzilIDilIAgY2xpZW50LW9uYm9hcmRpbmctaGVscGVyLyAgICMg5a2QU2tpbGzvvIjlj6/lrprliLbvvIkK4pSc4pSA4pSAIG1vbnRobHktdGF4LWhlbHBlci8gICAgICAgICAjIOWtkFNraWxs77yI5Y+v5a6a5Yi277yJCuKUnOKUgOKUgCBjb21wbGV4LWJ1c2luZXNzLWFkdmlzb3IvICAgICMg5a2QU2tpbGzvvIjlj6/lrprliLbvvIkK4pSc4pSA4pSAIHJpc2stbW9uaXRvci1ndWFyZC8gICAgICAgICAjIOWtkFNraWxs77yI5Y+v5a6a5Yi277yJCuKUlOKUgOKUgCBjdXN0b21lci1zdWNjZXNzLWhlbHBlci8gICAgIyDlrZBTa2lsbO+8iOWPr+WumuWItu+8iQpgYGAKCiMjIOaKgOacr+imgeaxggoKLSBQeXRob24gMy43KwotIHB5dGhvbi1kb2N477yIV29yZOaWh+aho+eUn+aIkO+8iQotIHBhbmRhc++8iOaVsOaNruWkhOeQhu+8iQotIG9wZW5weXhs77yIRXhjZWzop6PmnpDvvIkKCiMjIOabtOaWsOaXpeW/lwoKIyMjIHYyLjDvvIgyMDI2LTA0LTA377yJCi0gKirliJ3lp4vljJblkJHlr7wqKu+8muaUr+aMgeWTgeeJjOagh+ivhuWSjOWOv+Wfn+mAu+i+kemFjee9rgotICoq54mI5pys6L+96LiqKirvvJrorrDlvZXmr4/kuKrlrZBTa2lsbOeahOeJiOacrOWSjOabtOaWsOaXpeacnwotICoq6Ieq5Yqo5YyW56iL5bqm6YCJ5oupKirvvJrpq5gv5qCH5YeGL+S4peagvOS4ieenjeaooeW8jwotICoq5ZOB54mM6Ieq5Yqo5pu05pawKirvvJpMb2dv5ZKM6IGU57O75L+h5oGv6Ieq5Yqo5bqU55So5Yiw5oql5ZGKCg==
+# 大模型驱动的代理记账行业专属SKILL
+
+基于大语言模型的代理记账行业垂直Skill，支持管理层初始化定制后交付员工使用。
+
+## 系统架构
+
+![系统架构](./项目文档/ai_accounting_arch.png)
+
+## 文件结构
+
+![文件结构](./项目文档/daili_jizhang_skill.png)
+
+## 操作指引
+
+![操作指引](./项目文档/operation_guide.png)
+
+## 核心理念
+
+**管理层初始化 → 品牌标识定制 → 县域逻辑微调 → 交付员工使用**
+
+## 安装
+
+将整个文件夹作为Skill安装到AI Agent工作台：
+```
+D:\project\skills\代理记账\
+```
+
+## 初始化
+
+首次使用，说"初始化"启动配置向导：
+
+```
+AI：欢迎使用代理记账行业Skill初始化向导！
+    请提供公司信息、Logo、当地实情...
+```
+
+AI自动完成：
+- 品牌标识更新到所有报告模板
+- 县域逻辑微调到各子Skill
+- 版本号更新（v1.0.0 → v1.1.0）
+
+## 初始化配置项
+
+### 品牌信息
+| 配置项 | 说明 |
+|--------|------|
+| 公司名称 | 全称，用于报告落款 |
+| 简称/品牌名 | 用于文件名和简称 |
+| 联系电话 | 报告联系信息 |
+| Logo | 自动添加到Word报告页眉 |
+
+### 县域实情
+| 配置项 | 说明 |
+|--------|------|
+| 客户行业分布 | 调整行业税负率基准 |
+| 税务特点 | 查账征收/核定征收 |
+| 特殊优惠政策 | 更新政策追踪逻辑 |
+| 申报截止习惯 | 设置提醒时间 |
+
+### 输出格式
+| 配置项 | 说明 |
+|--------|------|
+| 报告内容 | 月度报告包含哪些章节 |
+| 语言风格 | 正式/简洁/详细 |
+| 文件命名 | {客户名}_{类型}_{日期} |
+
+### 确认节点
+| 自动化程度 | 说明 |
+|------------|------|
+| 高自动化 | 仅关键节点确认 |
+| 标准自动化 | 平衡效率与安全 |
+| 严格审核 | 每步都确认 |
+
+## 子Skill版本
+
+| 模块 | 版本 | 初始化状态 |
+|------|------|-----------|
+| client-onboarding-helper | v1.1.0 | 待初始化 |
+| monthly-tax-helper | v1.1.0 | 待初始化 |
+| complex-business-advisor | v1.1.0 | 待初始化 |
+| risk-monitor-guard | v1.1.0 | 待初始化 |
+| customer-success-helper | v1.1.0 | 待初始化 |
+
+查看版本：说"查看版本"
+
+## 员工使用
+
+初始化完成后，员工直接说需求即可：
+
+| 场景 | 员工这样说 |
+|------|-----------|
+| 新客户入职 | "新客户入职" |
+| 月度报税 | "处理本月票据" |
+| 风险检查 | "检查一下这个客户的税务风险" |
+| 客户价值 | "给客户出一份价值报告" |
+
+AI自动：
+1. 识别意图
+2. 调度对应模块
+3. 生成带品牌标识的Word报告
+
+## 文件结构
+
+```
+代理记账/
+├── SKILL.md                      # 主控Skill（入口）
+├── README.md                    # 本文件
+├── CLAUDE.md                    # 开发指南
+│
+├── config/
+│   └── skill-config.yaml       # 初始化配置和版本追踪
+│
+├── assets/
+│   └── report-templates/       # 报告模板（含品牌占位符）
+│
+├── parsers/                    # 财务软件解析器
+├── generators/                 # 报告生成器
+│
+├── client-onboarding-helper/   # 子Skill（可定制）
+├── monthly-tax-helper/         # 子Skill（可定制）
+├── complex-business-advisor/    # 子Skill（可定制）
+├── risk-monitor-guard/         # 子Skill（可定制）
+└── customer-success-helper/    # 子Skill（可定制）
+```
+
+## 技术要求
+
+- Python 3.7+
+- python-docx（Word文档生成）
+- pandas（数据处理）
+- openpyxl（Excel解析）
+
+## 更新日志
+
+### v2.0（2026-04-07）
+- **初始化向导**：支持品牌标识和县域逻辑配置
+- **版本追踪**：记录每个子Skill的版本和更新日期
+- **自动化程度选择**：高/标准/严格三种模式
+- **品牌自动更新**：Logo和联系信息自动应用到报告
