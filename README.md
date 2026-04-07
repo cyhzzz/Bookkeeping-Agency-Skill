@@ -4,15 +4,15 @@
 
 ## 系统架构
 
-![系统架构](/pic/skill_architecture.png)
+![系统架构](./pic/skill_architecture.png)
 
 ## 文件结构
 
-![文件结构](/pic/skill_file_architecture.png)
+![文件结构](./pic/skill_file_architecture.png)
 
 ## 操作指引
 
-![操作指引](/pic/operation_guide.png)
+![操作指引](./pic/operation_guide.png)
 
 ## 核心理念
 
@@ -20,9 +20,17 @@
 
 ## 安装
 
-将整个文件夹作为Skill安装到AI Agent工作台：
+### 方式一：npx 安装（推荐）
+
+```bash
+npx skills add cyhzzz/Bookkeeping-Agency-Skill
 ```
-D:\project\skills\代理记账\
+
+### 方式二：手动安装
+
+```bash
+git clone https://github.com/cyhzzz/Bookkeeping-Agency-Skill.git
+# 将 Bookkeeping-Agency-Skill 文件夹放入 Claude Code 的 ~/.claude/skills/ 目录
 ```
 
 ## 初始化
