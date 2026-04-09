@@ -4,15 +4,15 @@
 
 ## 系统架构
 
-![系统架构](./pic/skill_architecture.png)
+![系统架构](/pic/skill_architecture.png)
 
 ## 文件结构
 
-![文件结构](./pic/skill_file_architecture.png)
+![文件结构](/pic/skill_file_architecture.png)
 
 ## 操作指引
 
-![操作指引](./pic/operation_guide.png)
+![操作指引](/pic/operation_guide.png)
 
 ## 核心理念
 
